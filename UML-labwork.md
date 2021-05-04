@@ -11,6 +11,6 @@
 
 ### What are the major building blocks of UML?
 * UML uses three main building blocks: 
-> 1 Things
-    2 Diagrams
-3 Relationships
+    1. Things
+    2. Diagrams
+    3. Relationships
