@@ -1,4 +1,4 @@
-## Software Design
+# Software Design
 The process of defining software methods, functions, objects, and the general structure and interaction of your code so that the end product meets the user requirements.
 
 Usually includes:
